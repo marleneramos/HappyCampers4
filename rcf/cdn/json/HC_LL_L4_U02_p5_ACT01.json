@@ -1,0 +1,76 @@
+{
+  "id": "099826db3ffc418cb67194800e16416a",
+  "answers": [
+    {
+      "elm": "typein_1",
+      "type": "choice",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": [
+        "brush",
+        "Brush"
+      ]
+    },
+    {
+      "elm": "typein_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "dressed"
+    },
+    {
+      "elm": "typein_3",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "shower"
+    },
+    {
+      "elm": "typein_4",
+      "type": "choice",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": [
+        "wash",
+        "Wash"
+      ]
+    },
+    {
+      "elm": "typein_5",
+      "type": "choice",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": [
+        "dry",
+        "Dry"
+      ]
+    },
+    {
+      "elm": "typein_6",
+      "type": "choice",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": [
+        "brush",
+        "Brush"
+      ]
+    },
+    {
+      "elm": "typein_7",
+      "type": "choice",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": [
+        "get",
+        "Get"
+      ]
+    },
+    {
+      "elm": "typein_8",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "shoes"
+    }
+  ]
+}

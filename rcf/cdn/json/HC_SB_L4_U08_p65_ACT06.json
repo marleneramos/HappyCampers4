@@ -1,0 +1,71 @@
+{
+  "id": "234d629e26ce47a1aa07e3f86cec6c6a",
+  "answers": [
+    {
+      "elm": "typeinGroup_2",
+      "markType": "list",
+      "markedBy": "engine",
+      "type": "composite",
+      "value": [
+        {
+          "elm": "typein_3",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "Does"
+        },
+        {
+          "elm": "typein_4",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "make the bed"
+        }
+      ]
+    },
+    {
+      "elm": "typeinGroup_3",
+      "markType": "list",
+      "markedBy": "engine",
+      "type": "composite",
+      "value": [
+        {
+          "elm": "typein_5",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "Does"
+        },
+        {
+          "elm": "typein_6",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "study"
+        }
+      ]
+    },
+    {
+      "elm": "typeinGroup_4",
+      "markType": "list",
+      "markedBy": "engine",
+      "type": "composite",
+      "value": [
+        {
+          "elm": "typein_7",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "Does"
+        },
+        {
+          "elm": "typein_8",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "exercise"
+        }
+      ]
+    }
+  ]
+}

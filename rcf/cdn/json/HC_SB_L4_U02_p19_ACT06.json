@@ -1,0 +1,28 @@
+{
+  "id": "35fa6b4883c045068f0c1768e42630b2",
+  "answers": [
+    {
+      "elm": "matching_1",
+      "type": "composite",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": [
+        {
+          "elm": "matchTarget_1",
+          "type": "simple",
+          "value": "matchItem_1"
+        },
+        {
+          "elm": "matchTarget_2",
+          "type": "simple",
+          "value": "matchItem_2"
+        },
+        {
+          "elm": "matchTarget_3",
+          "type": "simple",
+          "value": "matchItem_3"
+        }
+      ]
+    }
+  ]
+}

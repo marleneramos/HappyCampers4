@@ -1,0 +1,48 @@
+{
+  "id": "cf4670a781494dca916879190d615a2b",
+  "answers": [
+    {
+      "elm": "crossword_1",
+      "type": "composite",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": [
+        {
+          "elm": "crossword_word_1",
+          "type": "simple",
+          "value": "BOOTS"
+        },
+        {
+          "elm": "crossword_word_2",
+          "type": "simple",
+          "value": "SWEATER"
+        },
+        {
+          "elm": "crossword_word_3",
+          "type": "simple",
+          "value": "SCARF"
+        },
+        {
+          "elm": "crossword_word_4",
+          "type": "simple",
+          "value": "COAT"
+        },
+        {
+          "elm": "crossword_word_5",
+          "type": "simple",
+          "value": "SHOES"
+        },
+        {
+          "elm": "crossword_word_6",
+          "type": "simple",
+          "value": "GLOVES"
+        },
+        {
+          "elm": "crossword_word_7",
+          "type": "simple",
+          "value": "HAT"
+        }
+      ]
+    }
+  ]
+}

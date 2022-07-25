@@ -1,0 +1,53 @@
+{
+  "id": "3211253cd16e426895604eb46928c4fe",
+  "answers": [
+    {
+      "elm": "ordering_1",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "This",
+        "is",
+        "her",
+        "coat"
+      ]
+    },
+    {
+      "elm": "ordering_2",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "These",
+        "are",
+        "his",
+        "shoes"
+      ]
+    },
+    {
+      "elm": "ordering_3",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "This",
+        "is",
+        "her",
+        "sweater"
+      ]
+    },
+    {
+      "elm": "ordering_4",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "This",
+        "is",
+        "his",
+        "raincoat"
+      ]
+    }
+  ]
+}

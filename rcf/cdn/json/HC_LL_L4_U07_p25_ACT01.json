@@ -1,0 +1,21 @@
+{
+  "id": "9415e3d7bf2c4c7fa308ed590e8f1b9f",
+  "answers": [
+    {
+      "elm": "wordsearch_1",
+      "type": "list",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": [
+        "UNITEDKINGDOM",
+        "FRANCE",
+        "MEXICO",
+        "JAPAN",
+        "UNITEDSTATES",
+        "MOROCCO",
+        "BRAZIL",
+        "CHINA"
+      ]
+    }
+  ]
+}

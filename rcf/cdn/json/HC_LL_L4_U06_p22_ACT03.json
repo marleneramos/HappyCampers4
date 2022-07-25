@@ -1,0 +1,26 @@
+{
+  "id": "18ec47bc1c814e5a9a7c8e6b3651442e",
+  "answers": [
+    {
+      "elm": "typein_1",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Does her wrist hurt"
+    },
+    {
+      "elm": "typein_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Does her ankle hurt"
+    },
+    {
+      "elm": "typein_3",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Does his shoulder hurt"
+    }
+  ]
+}

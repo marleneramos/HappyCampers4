@@ -1,0 +1,26 @@
+{
+  "id": "30dfe851abf449d8a1998a91d5d60f9c",
+  "answers": [
+    {
+      "elm": "typein_1",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Where does a dolphin live"
+    },
+    {
+      "elm": "typein_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "What does an ostrich have"
+    },
+    {
+      "elm": "typein_3",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Where does a bear live"
+    }
+  ]
+}

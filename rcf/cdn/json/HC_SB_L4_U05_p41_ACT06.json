@@ -1,0 +1,45 @@
+{
+  "id": "af18ec2d9e9a4d98b5c548976590de41",
+  "answers": [
+    {
+      "elm": "ordering_1",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "What",
+        "does",
+        "a",
+        "camel",
+        "have"
+      ]
+    },
+    {
+      "elm": "typein_1",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "A camel has a tail"
+    },
+    {
+      "elm": "ordering_2",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "What",
+        "does",
+        "a",
+        "dolphin",
+        "have"
+      ]
+    },
+    {
+      "elm": "typein_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "A dolphin has fins"
+    }
+  ]
+}

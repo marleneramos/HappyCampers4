@@ -1,0 +1,43 @@
+{
+  "id": "5d9a7c0f6c964e41a07455dfbb9b81a0",
+  "answers": [
+    {
+      "elm": "crossword_1",
+      "type": "composite",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": [
+        {
+          "elm": "crossword_word_1",
+          "type": "simple",
+          "value": "JUNGLE"
+        },
+        {
+          "elm": "crossword_word_2",
+          "type": "simple",
+          "value": "MOUNTAINS"
+        },
+        {
+          "elm": "crossword_word_3",
+          "type": "simple",
+          "value": "ZOO"
+        },
+        {
+          "elm": "crossword_word_4",
+          "type": "simple",
+          "value": "OCEAN"
+        },
+        {
+          "elm": "crossword_word_5",
+          "type": "simple",
+          "value": "FOREST"
+        },
+        {
+          "elm": "crossword_word_6",
+          "type": "simple",
+          "value": "DESERT"
+        }
+      ]
+    }
+  ]
+}

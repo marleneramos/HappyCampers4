@@ -1,0 +1,278 @@
+{
+  "id": "be914683ca164bc8b803bb0447789601",
+  "answers": [
+    {
+      "elm": "typeinGroup_1",
+      "markType": "list",
+      "markedBy": "engine",
+      "type": "composite",
+      "value": [
+        {
+          "elm": "typein_1",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "c"
+        },
+        {
+          "elm": "typein_2",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "o"
+        },
+        {
+          "elm": "typein_3",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "l"
+        }
+      ]
+    },
+    {
+      "elm": "typeinGroup_2",
+      "markType": "list",
+      "markedBy": "engine",
+      "type": "composite",
+      "value": [
+        {
+          "elm": "typein_5",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "f"
+        },
+        {
+          "elm": "typein_6",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "e"
+        },
+        {
+          "elm": "typein_7",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "v"
+        },
+        {
+          "elm": "typein_8",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "e"
+        },
+        {
+          "elm": "typein_9",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "r"
+        }
+      ]
+    },
+    {
+      "elm": "typeinGroup_3",
+      "markType": "list",
+      "markedBy": "engine",
+      "type": "composite",
+      "value": [
+        {
+          "elm": "typein_10",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "t"
+        },
+        {
+          "elm": "typein_11",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "o"
+        },
+        {
+          "elm": "typein_12",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "o"
+        },
+        {
+          "elm": "typein_13",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "t"
+        },
+        {
+          "elm": "typein_14",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "h"
+        },
+        {
+          "elm": "typein_15",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "a"
+        },
+        {
+          "elm": "typein_16",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "c"
+        },
+        {
+          "elm": "typein_17",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "h"
+        },
+        {
+          "elm": "typein_18",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "e"
+        }
+      ]
+    },
+    {
+      "elm": "typeinGroup_4",
+      "markType": "list",
+      "markedBy": "engine",
+      "type": "composite",
+      "value": [
+        {
+          "elm": "typein_19",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "b"
+        },
+        {
+          "elm": "typein_20",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "r"
+        },
+        {
+          "elm": "typein_21",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "o"
+        },
+        {
+          "elm": "typein_22",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "k"
+        },
+        {
+          "elm": "typein_23",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "e"
+        },
+        {
+          "elm": "typein_24",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "n"
+        },
+        {
+          "elm": "typein_25",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "a"
+        },
+        {
+          "elm": "typein_26",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "r"
+        },
+        {
+          "elm": "typein_27",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "m"
+        }
+      ]
+    },
+    {
+      "elm": "typeinGroup_5",
+      "markType": "list",
+      "markedBy": "engine",
+      "type": "composite",
+      "value": [
+        {
+          "elm": "typein_28",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "c"
+        },
+        {
+          "elm": "typein_29",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "o"
+        },
+        {
+          "elm": "typein_30",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "u"
+        },
+        {
+          "elm": "typein_31",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "g"
+        },
+        {
+          "elm": "typein_32",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "h"
+        }
+      ]
+    },
+    {
+      "elm": "ordering_1",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "h",
+        "e",
+        "a",
+        "d",
+        "a",
+        "c",
+        "h",
+        "e"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "c9fa65f70d3d4f6fa1be49dac7cd0afb",
+  "answers": [
+    {
+      "elm": "typein_9",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "brush"
+    },
+    {
+      "elm": "typein_10",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "teeth"
+    },
+    {
+      "elm": "typein_11",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "get dressed"
+    },
+    {
+      "elm": "typein_12",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "get dressed"
+    },
+    {
+      "elm": "typein_13",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "brush"
+    },
+    {
+      "elm": "typein_14",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "hair"
+    }
+  ]
+}

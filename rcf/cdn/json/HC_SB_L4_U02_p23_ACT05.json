@@ -1,0 +1,26 @@
+{
+  "id": "e3f9ebb49ad9445bb2e4a86e0bc2de81",
+  "answers": [
+    {
+      "elm": "typein_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "They have hairbrushes"
+    },
+    {
+      "elm": "typein_3",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "They don't have toothpaste"
+    },
+    {
+      "elm": "typein_4",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "They don't have shampoo"
+    }
+  ]
+}

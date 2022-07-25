@@ -1,0 +1,47 @@
+{
+  "id": "3fce86f766ce4c7c95bb6e0c600b6464",
+  "answers": [
+    {
+      "elm": "typein_3",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "knee"
+    },
+    {
+      "elm": "typein_4",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "knee"
+    },
+    {
+      "elm": "typein_7",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "back"
+    },
+    {
+      "elm": "typein_8",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "back"
+    },
+    {
+      "elm": "typein_11",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "wrist"
+    },
+    {
+      "elm": "typein_12",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "wrist"
+    }
+  ]
+}

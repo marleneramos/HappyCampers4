@@ -1,0 +1,18 @@
+{
+  "id": "9fe686d9a34f479f9e078663c4530cd1",
+  "answers": [
+    {
+      "elm": "ordering_1",
+      "type": "sequence",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": [
+        "Dan has a headache and a fever.",
+        "Dan goes to the doctor.",
+        "Dr. Brenner says no soccer today.",
+        "Dan rests and eats soup.",
+        "Dan scores the winning goal."
+      ]
+    }
+  ]
+}

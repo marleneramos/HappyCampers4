@@ -1,0 +1,67 @@
+{
+  "id": "3290f0551b4d4ee7874d577c1b5c9b5a",
+  "answers": [
+    {
+      "elm": "typein_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Portuguese"
+    },
+    {
+      "elm": "typein_3",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Spanish"
+    },
+    {
+      "elm": "typein_4",
+      "type": "choice",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": [
+        "Arabic",
+        "French"
+      ]
+    },
+    {
+      "elm": "typein_5",
+      "type": "choice",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": [
+        "French",
+        "Arabic"
+      ]
+    },
+    {
+      "elm": "typein_6",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "English"
+    },
+    {
+      "elm": "typein_7",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Japanese"
+    },
+    {
+      "elm": "typein_8",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "French"
+    },
+    {
+      "elm": "typein_9",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "English"
+    }
+  ]
+}

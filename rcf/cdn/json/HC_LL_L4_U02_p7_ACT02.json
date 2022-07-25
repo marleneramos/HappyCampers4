@@ -1,0 +1,19 @@
+{
+  "id": "a5c9b7b520324b15afdf481e7d4c1f51",
+  "answers": [
+    {
+      "elm": "wordsearch_1",
+      "type": "list",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": [
+        "SHAMPOO",
+        "TOOTHPASTE",
+        "SOAP",
+        "HAIRBRUSH",
+        "COMB",
+        "TOOTHBRUSH"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "4a501f15387a4090a5c56890beba71ef",
+  "answers": [
+    {
+      "elm": "checkbox_1",
+      "type": "list",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": [
+        "item_1",
+        "item_2",
+        "item_5",
+        "item_6"
+      ]
+    }
+  ]
+}
